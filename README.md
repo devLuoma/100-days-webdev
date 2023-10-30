@@ -1,2 +1,5 @@
 # 100-days-webdev
-100 days of web developmetn
+
+100 days of web development
+
+A Udemy course
